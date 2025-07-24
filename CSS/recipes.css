@@ -147,3 +147,43 @@ nav li:hover {
   text-align: center;
   flex: 1 1 120px;
 }
+
+.directions-box {
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 900px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  color: #d36ba6;
+}
+
+.directions-box h3 {
+  color: #ff69b4;
+  margin-bottom: 0.3rem;
+}
+
+.step {
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid #ffb6d9;
+}
+
+
+
+footer {
+  background-color: #ffe4ec;
+  padding: 1.5rem;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+footer a {
+  color: #d36ba6;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
