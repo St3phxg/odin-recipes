@@ -61,10 +61,6 @@ nav li:hover {
   cursor: pointer;
 }
 
-/* ------------------------------ */
-/* 🍓 MEALS PAGE STYLING */
-/* ------------------------------ */
-
 .header {
   border-radius: 16px;
   text-align: center;
@@ -91,14 +87,14 @@ nav li:hover {
   background-color: #fff0f5;
   border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   transition: transform 0.2s ease-in-out;
   text-align: center;
 }
 
 .meal-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
 }
 
 .meal-card img {
@@ -121,6 +117,8 @@ nav li:hover {
 .meal-card a:hover {
   text-decoration: underline;
 }
+
+
 
 footer {
   background-color: #ffe4ec;

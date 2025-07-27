@@ -88,6 +88,10 @@ nav li:hover {
   background-image: url('../recipes/images/Strawberrysando.webp');
 }
 
+.brownies-bg {
+  background-image: url('../recipes/images/brownies.webp');
+}
+
 
 .recipe-header.with-bg::before {
   content: '';
