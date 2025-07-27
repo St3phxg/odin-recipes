@@ -80,6 +80,14 @@ nav li:hover {
   background-image: url('../recipes/images/Pasta-Sauce.webp');
 }
 
+.arayes-bg {
+  background-image: url('../recipes/images/arayes.webp');
+}
+
+.strawberry-sando-bg {
+  background-image: url('../recipes/images/Strawberrysando.webp');
+}
+
 
 .recipe-header.with-bg::before {
   content: '';
